@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHTMLBuilder", "url2mhtml\MHTMLBuilder.csproj", "{317F7BB3-A802-4245-9E88-BEAE410DA9F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomExceptionEnumerators", "CustomExceptionEnumerators\CustomExceptionEnumerators.csproj", "{A26B05BD-F04E-4E53-B503-5773A0C3528E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomException", "CustomException\CustomException.csproj", "{A271AC08-BC86-4082-8778-CC7D87E82384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApplication", "TestConsoleApplication\TestConsoleApplication.csproj", "{C98A0231-6314-48A7-AEAD-B4704809F88B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{317F7BB3-A802-4245-9E88-BEAE410DA9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317F7BB3-A802-4245-9E88-BEAE410DA9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317F7BB3-A802-4245-9E88-BEAE410DA9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317F7BB3-A802-4245-9E88-BEAE410DA9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A26B05BD-F04E-4E53-B503-5773A0C3528E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26B05BD-F04E-4E53-B503-5773A0C3528E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26B05BD-F04E-4E53-B503-5773A0C3528E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26B05BD-F04E-4E53-B503-5773A0C3528E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A271AC08-BC86-4082-8778-CC7D87E82384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A271AC08-BC86-4082-8778-CC7D87E82384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A271AC08-BC86-4082-8778-CC7D87E82384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A271AC08-BC86-4082-8778-CC7D87E82384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98A0231-6314-48A7-AEAD-B4704809F88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98A0231-6314-48A7-AEAD-B4704809F88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98A0231-6314-48A7-AEAD-B4704809F88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98A0231-6314-48A7-AEAD-B4704809F88B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
